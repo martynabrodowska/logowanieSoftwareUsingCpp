@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1698171462 source:c:\users\marty\onedrive\pulpit\24.10\aplikacja\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1698171462 source:c:\users\marty\onedrive - politechnika bia³ostocka\pulpit\24.10\aplikacja\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
+1698171462 source:c:\users\marty\onedrive - politechnika bia³ostocka\pulpit\logowanie\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
